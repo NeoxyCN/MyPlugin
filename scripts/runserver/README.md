@@ -1,0 +1,1 @@
+The files in this folder should be copied into ```..\out\artifacts\HelloWorld``` before running server.
